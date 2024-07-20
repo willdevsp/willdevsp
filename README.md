@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/willdevsp">
-  <img src="https://github-readme-stats.vercel.app/api?username=willdevsp&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=willdevsp&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br> 
   
