@@ -1,4 +1,4 @@
-### Opaaaaaaa olha eu ai !!! Eu sou a William, mas pode me chamar de WiLL 👋
+### Opaaaaaaa olha eu ai !!! Eu sou o William, mas pode me chamar de WiLL 👋
 
 <!--
 **willdevsp/willdevsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
